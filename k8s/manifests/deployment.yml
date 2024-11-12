@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: ramanakoya/go_image:v1
+        image: ramanakoya/go-web-app:v1
         ports:
         - containerPort: 8080
